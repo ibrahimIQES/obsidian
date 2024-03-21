@@ -17,3 +17,13 @@ create observer
 ```
 php artisan make:observer UserObserver --model=User
 ```
+
+migrate
+```
+php artisan migrate
+```
+
+seeder 
+```
+php artisan db:seed --class=DatabaseSeeder
+```
