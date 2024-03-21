@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Task.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -30,17 +30,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fb15ce83c4f4fe8f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command.md",
+                "file": "Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command.md"
+                "file": "Task.md"
               }
             }
           }
@@ -168,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "804051fc669946c3",
+  "active": "71f77845c2165f6e",
   "lastOpenFiles": [
-    "Task.md",
     "Command.md",
+    "Task.md",
     "Untitled.md",
     "Accounts.md",
     "command",
