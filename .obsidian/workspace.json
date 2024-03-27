@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accounts.md",
+                "file": "Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accounts.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounts.md"
+                "file": "Task.md"
               }
             }
           }
@@ -183,11 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "804051fc669946c3",
+  "active": "71f77845c2165f6e",
   "lastOpenFiles": [
     "Command.md",
-    "Task.md",
     "Accounts.md",
+    "Task.md",
     "fixed bug.md",
     "command",
     "medias/Pasted image 20240206170922.png",
