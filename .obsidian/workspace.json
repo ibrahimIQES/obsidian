@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accounts.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fb39605ea92a207",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Command.md",
+                "file": "Task.md",
                 "mode": "preview",
                 "source": false
               }
@@ -55,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71f77845c2165f6e",
+  "active": "804051fc669946c3",
   "lastOpenFiles": [
-    "Command.md",
     "Accounts.md",
-    "Task.md",
+    "Command.md",
     "fixed bug.md",
+    "Task.md",
+    "Untitled.md",
     "command",
     "medias/Pasted image 20240206170922.png",
     "IQSB.md",
