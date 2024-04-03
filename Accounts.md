@@ -89,3 +89,13 @@ muhammadibrahim@iqes.com.my
 ```
 i5119es@
 ```
+
+## microsoft account
+username >
+```
+muhammadibrahim@iqsb.onmicrosoft.com
+```
+password > 
+```
+Qak77894
+```
