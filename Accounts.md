@@ -82,6 +82,28 @@ Password1234-
 
 System: Windows 10 Enterprise  
 Remote Access: RDP
+## live staging
+hostname 
+```
+IQTE-INTRND07
+```
+username
+```
+USR01
+```
+password
+```
+Password1234-
+```
+remote access
+```
+RDP
+```
+public ip
+```
+211.24.85.184
+```
+![[Pasted image 20240404102344.png]]
 ## github 
 ```
 muhammadibrahim@iqes.com.my
@@ -98,4 +120,11 @@ muhammadibrahim@iqsb.onmicrosoft.com
 password > 
 ```
 Qak77894
+```
+
+
+## laravel vapor
+```password
+muhammadibrahim@iqes.com.my
+laravelvaporIQSB
 ```

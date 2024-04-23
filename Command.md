@@ -30,3 +30,12 @@ seeder
 ```
 php artisan db:seed --class=DatabaseSeeder
 ```
+
+clean file changes
+```
+git clean -d -f 
+```
+total remove all file
+```
+git checkout
+```
