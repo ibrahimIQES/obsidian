@@ -45,6 +45,7 @@ setup simple API , push to git
 | building management CRUD                              | submenu:<br>- facility (building)<br>- floor <br>- room<br>(each farm has building, inside building got many floor, on each floor got multiple room). <br>use prefix for the table<br>- pivot with handheld user table,<br>- user need permission to access facility, floor, and room. |           |
 | handheld user crud                                    | for mobile user                                                                                                                                                                                                                                                                        |           |
 | check the api response, must return proper <br>format |                                                                                                                                                                                                                                                                                        |           |
+| change the route name from 'app' => 'api'             |                                                                                                                                                                                                                                                                                        |           |
 include authentication for APIs  & timeout 
 
 >ask din the sourcecode for jwt 
