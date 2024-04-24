@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command.md",
-                "mode": "preview",
+                "file": "Task.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accounts.md",
+                "file": "Task.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accounts.md",
+                "file": "Task.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounts.md"
+                "file": "Task.md"
               }
             }
           }
@@ -170,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "804051fc669946c3",
+  "active": "cb45bcaf20309f27",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Accounts.md",
-    "Task.md",
     "Command.md",
     "Farmeria.md",
+    "Accounts.md",
+    "Untitled.md",
+    "Task.md",
     "fixed bug.md",
     "medias/Pasted image 20240404102344.png",
     "e-invoice.md",
