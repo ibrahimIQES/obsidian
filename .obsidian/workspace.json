@@ -10,13 +10,15 @@
           {
             "id": "804051fc669946c3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Accounts.md",
                 "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -34,13 +36,29 @@
           {
             "id": "cb45bcaf20309f27",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Task.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "dc85dc2bf14e24e6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
             }
           }
         ],
@@ -174,10 +192,10 @@
   "active": "cb45bcaf20309f27",
   "lastOpenFiles": [
     "Command.md",
-    "Farmeria.md",
-    "Accounts.md",
-    "Untitled.md",
     "Task.md",
+    "Accounts.md",
+    "Farmeria.md",
+    "Untitled.md",
     "fixed bug.md",
     "medias/Pasted image 20240404102344.png",
     "e-invoice.md",
