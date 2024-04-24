@@ -36,3 +36,16 @@ check
 
 
 setup simple API , push to git 
+
+# 24/4/2024
+
+| task                     | describtion                                                                                                                                                                                                                                                                            |
+| ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| building management CRUD | submenu:<br>- facility (building)<br>- floor <br>- room<br>(each farm has building, inside building got many floor, on each floor got multiple room). <br>use prefix for the table<br>- pivot with handheld user table,<br>- user need permission to access facility, floor, and room. |
+| handheld user crud       | for mobile user                                                                                                                                                                                                                                                                        |
+include authentication for APIs  & timeout 
+
+>ask din the sourcecode for jwt 
+
+>return method ,
+header need  to check the format of returned data 
