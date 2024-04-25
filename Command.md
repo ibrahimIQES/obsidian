@@ -39,3 +39,18 @@ total remove all file
 ```
 git checkout
 ```
+```
+git reset --hard
+```
+
+# ssh to remote server
+```
+ssh -p 22147  USR01@211.24.85.184
+```
+type the password manually
+```
+Password1234-
+```
+```
+cd C:\xampp2\htdocs\template_9>
+```
