@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "Command.md"
               }
             }
           }
@@ -189,11 +189,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb45bcaf20309f27",
+  "active": "dc85dc2bf14e24e6",
   "lastOpenFiles": [
     "Accounts.md",
-    "Command.md",
     "Farmeria.md",
+    "Command.md",
     "Task.md",
     "Untitled.md",
     "fixed bug.md",

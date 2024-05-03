@@ -52,3 +52,7 @@ include authentication for APIs  & timeout
 
 >return method ,
 header need  to check the format of returned data 
+
+
+>Based on the Tuesday meeting and the document sent by Jack to do all the master file CRUD.  
+  Building management no more floor based on Tuesday discussion
