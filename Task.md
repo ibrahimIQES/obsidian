@@ -40,19 +40,6 @@ setup simple API , push to git
 # 24/4/2024
 
 
-| task                                                  | describtion                                                                                                                                                                                                                                                                                                      | checklist |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| building management CRUD                              | submenu:<br>- facility (building)<br>- floor <br>- room<br>(each farm has building, inside building got many floor, on each floor got multiple room). <br>use prefix for the table<br>- pivot with handheld user table,<br>- user need permission to access facility, floor, and room.<br>- add observer for log |           |
-| handheld user crud                                    | for mobile user<br>- add observer for log                                                                                                                                                                                                                                                                        |           |
-| check the api response, must return proper <br>format |                                                                                                                                                                                                                                                                                                                  |           |
-| change the route name from 'app' => 'api'             |                                                                                                                                                                                                                                                                                                                  |           |
-include authentication for APIs  & timeout 
-
->ask din the sourcecode for jwt 
-
->return method ,
-header need  to check the format of returned data 
-
-
->Based on the Tuesday meeting and the document sent by Jack to do all the master file CRUD.  
-  Building management no more floor based on Tuesday discussion
+| task                                                                                                                                                                        | describtion                | checklist |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- | --------- |
+| 1) Fixed the User (administrator) and Role permission issue  <br>2) Datatable pagination control with database  <br>3) Equipment CRUD  <br>4) Import features for equipment | check note book            |           |

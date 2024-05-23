@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "Task.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
@@ -60,9 +60,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d4d8c5076ed2b2ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Logic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command.md",
+                "file": "Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command.md",
+                "file": "Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command.md"
+                "file": "Logic.md"
               }
             }
           }
@@ -189,13 +201,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc85dc2bf14e24e6",
+  "active": "d4d8c5076ed2b2ed",
   "lastOpenFiles": [
-    "Accounts.md",
-    "Farmeria.md",
     "Command.md",
+    "Accounts.md",
+    "Logic.md",
     "Task.md",
-    "Untitled.md",
+    "Farmeria.md",
     "fixed bug.md",
     "medias/Pasted image 20240404102344.png",
     "e-invoice.md",
