@@ -7,3 +7,5 @@ to SO001, PS001, OC001
 once consolidate, it will transfer to product schedule listing :
 - need foreign key 
 add 'delivery' to location type
+
+change sale order delivery location show only location with type delivery, production plant , only show delivery type
