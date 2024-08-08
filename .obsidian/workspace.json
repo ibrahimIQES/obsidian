@@ -86,18 +86,6 @@
             }
           },
           {
-            "id": "cdad4fac2d223717",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-8-2024.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b975aea0a030d449",
             "type": "leaf",
             "state": {
@@ -121,7 +109,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -187,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accounts.md",
+                "file": "8-8-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accounts.md",
+                "file": "8-8-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accounts.md"
+                "file": "8-8-2024.md"
               }
             }
           }
@@ -248,19 +237,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "804051fc669946c3",
+  "active": "b975aea0a030d449",
   "lastOpenFiles": [
-    "8-8-2024.md",
     "7-8-2024.md",
-    "Farmeria.md",
     "24-7-2024.md",
+    "8-8-2024.md",
+    "Accounts.md",
+    "Farmeria.md",
     "Command.md",
     "Task.md",
     "UAT date.md",
     "Untitled 1.md",
     "Untitled 3.md",
     "update task.md",
-    "Accounts.md",
     "31 AUGUST.md",
     "Logic.md",
     "fixed bug.md",
