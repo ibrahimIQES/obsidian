@@ -121,8 +121,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8-8-2024.md",
+                "file": "Accounts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8-8-2024.md",
+                "file": "Accounts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-8-2024.md"
+                "file": "Accounts.md"
               }
             }
           }
@@ -249,15 +248,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdad4fac2d223717",
+  "active": "804051fc669946c3",
   "lastOpenFiles": [
+    "8-8-2024.md",
     "7-8-2024.md",
     "Farmeria.md",
     "24-7-2024.md",
     "Command.md",
     "Task.md",
     "UAT date.md",
-    "8-8-2024.md",
     "Untitled 1.md",
     "Untitled 3.md",
     "update task.md",

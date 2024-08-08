@@ -47,6 +47,19 @@ facility@email.com.my
 12345678
 ```
 
+### farm harvesting sample
+**url**
+```
+http://47.254.195.115:8081/poultry/
+```
+**email**
+```
+administrator@merit.farm
+```
+**password**
+```
+12345678
+```
 ## mail
 `where`
 ```
