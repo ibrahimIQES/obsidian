@@ -60,7 +60,11 @@ administrator@merit.farm
 ```
 12345678
 ```
+<<<<<<< Updated upstream
 ## mail
+=======
+### mail
+>>>>>>> Stashed changes
 `where`
 ```
 webmail.iqes.com.my
@@ -74,7 +78,7 @@ muhammadibrahim@iqes.com.my
 Iqes2024@
 ```
 ![[Pasted image 20240206170816.png]]![[Pasted image 20240206170922.png]]
-## staging 
+### staging 
 Hostname: *IQTE-INTRND06*  
   
 IP: *[192.168.0.147](https://192.168.0.147/ "https://192.168.0.147")*  
@@ -95,7 +99,7 @@ Password1234-
 
 System: Windows 10 Enterprise  
 Remote Access: RDP
-## live staging
+### live staging
 hostname 
 ```
 IQTE-INTRND07
@@ -117,7 +121,7 @@ public ip
 211.24.85.184
 ```
 ![[Pasted image 20240404102344.png]]
-## github 
+### github 
 ```
 muhammadibrahim@iqes.com.my
 ```
@@ -125,7 +129,7 @@ muhammadibrahim@iqes.com.my
 i5119es@
 ```
 
-## microsoft account
+### microsoft account
 username >
 ```
 muhammadibrahim@iqsb.onmicrosoft.com
@@ -136,7 +140,7 @@ Qak77894
 ```
 
 
-## laravel vapor
+### laravel vapor
 ```password
 muhammadibrahim@iqes.com.my
 laravelvaporIQSB

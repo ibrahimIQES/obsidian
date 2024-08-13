@@ -1,54 +1,14 @@
 {
   "main": {
-    "id": "baf71a9a710a9d93",
+    "id": "781a8948ae4deb26",
     "type": "split",
     "children": [
       {
-        "id": "6bc89aba8cc9151e",
+        "id": "69f18e94dd4226e5",
         "type": "tabs",
         "children": [
           {
-            "id": "804051fc669946c3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accounts.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2ad01587564703d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Farmeria.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb45bcaf20309f27",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Task.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "dc85dc2bf14e24e6",
+            "id": "a98a49c468b53031",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -62,69 +22,34 @@
             }
           },
           {
-            "id": "7514d2c835b1fb85",
+            "id": "f097c100e3fa11b9",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "24-7-2024.md",
-                "mode": "source",
+                "file": "Accounts.md",
+                "mode": "preview",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bbe57092174e1e91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7-8-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b975aea0a030d449",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "8-8-2024.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac7d2d6d80650e76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UAT date.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4f07f2de92e541f0",
+    "id": "1b727f92d5f7bce1",
     "type": "split",
     "children": [
       {
-        "id": "8c61eb15c2258064",
+        "id": "15178f321b37c05a",
         "type": "tabs",
         "children": [
           {
-            "id": "95894bf0cf7925a9",
+            "id": "e009f347034737ee",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -134,7 +59,7 @@
             }
           },
           {
-            "id": "cf9b38bbf3516b12",
+            "id": "ace74998a9f5ff99",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -149,7 +74,7 @@
             }
           },
           {
-            "id": "b00b4f89565a4701",
+            "id": "27a97f9dcd60f7ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -160,23 +85,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "c3744770bc6d3b17",
+    "id": "2da33d6f6beab942",
     "type": "split",
     "children": [
       {
-        "id": "92bae1da80b7fef1",
+        "id": "a6d783c052e9777f",
         "type": "tabs",
         "children": [
           {
-            "id": "564bbfe564906f3c",
+            "id": "a3728de2076447c1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8-8-2024.md",
+                "file": "Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,19 +114,19 @@
             }
           },
           {
-            "id": "dc25b23e1c27c1e9",
+            "id": "eee282513cdaf70b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8-8-2024.md",
+                "file": "Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "92feb109fc09c7f2",
+            "id": "91326f86c2b30136",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -211,12 +137,12 @@
             }
           },
           {
-            "id": "69ee71a6da5ba3c4",
+            "id": "8345e58dd568e253",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "8-8-2024.md"
+                "file": "Command.md"
               }
             }
           }
@@ -237,31 +163,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b975aea0a030d449",
+  "active": "a98a49c468b53031",
   "lastOpenFiles": [
-    "7-8-2024.md",
-    "24-7-2024.md",
-    "8-8-2024.md",
+    "task/8-8-2024.md",
+    "task/TODO.md",
+    "task/7-8-2024.md",
+    "task/31 AUGUST.md",
+    "task/24-7-2024.md",
+    "task",
+    "check.md",
+    "Pasted image 20240809122549.png",
     "Accounts.md",
-    "Farmeria.md",
-    "Command.md",
     "Task.md",
-    "UAT date.md",
-    "Untitled 1.md",
-    "Untitled 3.md",
     "update task.md",
+    "UAT date.md",
+    "8-8-2024.md",
+    "7-8-2024.md",
     "31 AUGUST.md",
-    "Logic.md",
-    "fixed bug.md",
-    "medias/Pasted image 20240404102344.png",
+    "24-7-2024.md",
+    "new.md",
+    "TODO.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "e-invoice.md",
-    "command",
-    "medias/Pasted image 20240206170922.png",
-    "IQSB.md",
-    "medias/Pasted image 20240206170846.png",
-    "medias/Pasted image 20240206170816.png",
-    "medias",
-    "Accounts",
-    "IQSB"
+    "Logic.md",
+    "Command.md",
+    "fixed bug.md",
+    "Farmeria.md"
   ]
 }
