@@ -46,9 +46,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7bd7792b74846317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new JO flow for raw material.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7eaeb2f114a4f274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UAT nextweek - 14 October 2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "task by friday 1200.md",
+                "file": "UAT nextweek - 14 October 2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "task by friday 1200.md",
+                "file": "UAT nextweek - 14 October 2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "task by friday 1200.md"
+                "file": "UAT nextweek - 14 October 2024.md"
               }
             }
           }
@@ -175,11 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "729ec3e532659d64",
+  "active": "7eaeb2f114a4f274",
   "lastOpenFiles": [
-    "Accounts.md",
-    "Command.md",
+    "UAT nextweek - 14 October 2024.md",
+    "new JO flow for raw material.md",
     "task by friday 1200.md",
+    "Command.md",
+    "Accounts.md",
     "Update 21-08-2024.md",
     "update task.md",
     "update.md",
@@ -199,7 +225,6 @@
     "24-7-2024.md",
     "new.md",
     "TODO.md",
-    "Untitled 1.md",
     "e-invoice.md",
     "Logic.md",
     "fixed bug.md",

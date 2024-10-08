@@ -1,4 +1,10 @@
-- change table input when add sku for job order's live "production weighing data" 
+- change table input when add sku for job order's live "production weighing data"  ✅
 - update picking list stock transaction's picking list not showing picking list detail's sku
 - farms module
-
+- picking list remove area, area used in sku listing  cause diffent sku maybe from different area 
+- let top cover weight & avg empty weight in job order live edited . 
+- stock balance
+	- quantity = > on hand quantity
+	- allocated => available quantity
+- stock transaction 
+	-  if type production, no need deduct stock balance, 
