@@ -8,3 +8,12 @@
 	- allocated => available quantity
 - stock transaction 
 	-  if type production, no need deduct stock balance, 
+- picking list , add status, (use to filter used picking list in stock transaction )
+- Job order live order 
+	- job order live, create/edit , filter houses by selected farm's 
+	- change job order live to compolsary 
+- production schedule listing 
+	-  sort listing by expected delivery date first, 
+- for linked no, for example batch no, production listing no, etc,.. make hyperlink to goto 
+- error when add sku for stock transaction GRN , tray/pallet 
+- pickinglist's bugs 
