@@ -57,3 +57,19 @@ cd C:\xampp2\htdocs\template_9>
 ```
 mysqldump -u root -p farmiera_uat > backup.sql
 ```
+
+## maintainence mod
+
+show down 
+```
+php artisan down
+```
+
+```
+php artisan down --redirect=/
+```
+
+up/live 
+```
+php artisan up
+```

@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new JO flow for raw material.md",
+                "file": "Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new JO flow for raw material.md",
+                "file": "Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "new JO flow for raw material.md"
+                "file": "Command.md"
               }
             }
           }
@@ -199,15 +198,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7bd7792b74846317",
+  "active": "a98a49c468b53031",
   "lastOpenFiles": [
+    "new JO flow for raw material.md",
+    "task by friday 1200.md",
     "Command.md",
     "Update  16-10-2024.md",
-    "new JO flow for raw material.md",
     "UAT nextweek - 14 October 2024.md",
     "Untitled.md",
     "update task.md",
-    "task by friday 1200.md",
     "Accounts.md",
     "Update 21-08-2024.md",
     "update.md",
