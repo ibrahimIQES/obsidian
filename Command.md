@@ -52,3 +52,8 @@ Password1234-
 ```
 cd C:\xampp2\htdocs\template_9>
 ```
+
+## backup DB
+```
+mysqldump -u root -p farmiera_uat > backup.sql
+```
