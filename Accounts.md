@@ -60,11 +60,10 @@ administrator@merit.farm
 ```
 12345678
 ```
-<<<<<<< Updated upstream
+
 ## mail
-=======
 ### mail
->>>>>>> Stashed changes
+
 `where`
 ```
 webmail.iqes.com.my
@@ -121,12 +120,12 @@ public ip
 211.24.85.184
 ```
 ![[Pasted image 20240404102344.png]]
-### github 
+### gitlab
 ```
 muhammadibrahim@iqes.com.my
 ```
 ```
-i5119es@
+ibrahim96
 ```
 
 ### microsoft account
