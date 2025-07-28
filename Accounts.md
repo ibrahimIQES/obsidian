@@ -28,6 +28,9 @@ admin@iqsb.com.my
 12345678
 ```
 
+TnE live
+https://iqsb-ts.iqes.com.my/account/index.php
+
 ### ATMs 
 https://www.axi-atms-staging.iqes.com.my/login  
 `Superadmin` 
