@@ -1,2 +1,0 @@
-- https://trello.com/c/FwrbP1yN/332-job-order-live-bird-farms-delivery-order-production-weighing-data-change-the-grade-label-to-breed-and-update-value-for-gender
-- 

@@ -50,19 +50,31 @@
             }
           },
           {
-            "id": "069f5682ecb80466",
+            "id": "a6564a7b13001c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Command.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "72d819b037251aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git info.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -128,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Command.md",
+                "file": "git info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Command.md",
+                "file": "git info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Command.md"
+                "file": "git info.md"
               }
             }
           }
@@ -189,10 +201,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "069f5682ecb80466",
+  "active": "72d819b037251aba",
   "lastOpenFiles": [
-    "update.md",
+    "git info.md",
+    "Command.md",
+    "Cloud info.md",
+    "Accounts.md",
+    "din's.md",
+    "Farmeria.md",
     "update task.md",
+    "Update 21-08-2024.md",
+    "update.md",
     "task/TODO.md",
     "task/8-8-2024.md",
     "task/7-8-2024.md",
@@ -208,18 +227,11 @@
     "medias/Pasted image 20240206170816.png",
     "medias",
     "fixed bug.md",
-    "din's.md",
-    "Update 21-08-2024.md",
     "Update  16-10-2024.md",
-    "Untitled.md",
     "UAT nextweek - 14 October 2024.md",
     "UAT date.md",
     "Task.md",
     "Pasted image 20240809122549.png",
-    "Farmeria.md",
-    "github settings.md",
-    "Accounts.md",
-    "Cloud info.md",
-    "Command.md"
+    "github settings.md"
   ]
 }
