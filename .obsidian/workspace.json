@@ -1,88 +1,92 @@
 {
   "main": {
-    "id": "781a8948ae4deb26",
+    "id": "17a3cd16e9f3fa9d",
     "type": "split",
     "children": [
       {
-        "id": "69f18e94dd4226e5",
+        "id": "94efca6aa7e87047",
         "type": "tabs",
         "children": [
           {
-            "id": "f097c100e3fa11b9",
+            "id": "c6786933e2738571",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Accounts.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Accounts"
+              "pinned": true
             }
           },
           {
-            "id": "a98a49c468b53031",
+            "id": "f868628dcc09ecb6",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Command.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Command"
+              "pinned": true
             }
           },
           {
-            "id": "f58de9e7bfc0fbdd",
+            "id": "94f7573c23464345",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Cloud info.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Cloud info"
+              "pinned": true
+            }
+          },
+          {
+            "id": "069f5682ecb80466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1b727f92d5f7bce1",
+    "id": "657a29a12d5b7aaa",
     "type": "split",
     "children": [
       {
-        "id": "15178f321b37c05a",
+        "id": "84a584532c8e2708",
         "type": "tabs",
         "children": [
           {
-            "id": "e009f347034737ee",
+            "id": "350372666f7e1789",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
-            "id": "ace74998a9f5ff99",
+            "id": "ec56a710e29255fc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -93,43 +97,38 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
-            "id": "27a97f9dcd60f7ed",
+            "id": "546e31d3641f3377",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "2da33d6f6beab942",
+    "id": "ab580dda9214d71a",
     "type": "split",
     "children": [
       {
-        "id": "a6d783c052e9777f",
+        "id": "9d868f385392fe7d",
         "type": "tabs",
         "children": [
           {
-            "id": "a3728de2076447c1",
+            "id": "50eb1ccd935fa5d9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,48 +136,40 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              }
             }
           },
           {
-            "id": "eee282513cdaf70b",
+            "id": "50aa344d9c0f2c0e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              }
             }
           },
           {
-            "id": "91326f86c2b30136",
+            "id": "8197c568bf5961d9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+              }
             }
           },
           {
-            "id": "8345e58dd568e253",
+            "id": "f12dd7f6addb8a08",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Untitled 1"
+                "file": "Command.md"
+              }
             }
           }
         ]
@@ -198,35 +189,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f097c100e3fa11b9",
+  "active": "069f5682ecb80466",
   "lastOpenFiles": [
-    "Cloud info.md",
-    "Command.md",
-    "Accounts.md",
-    "check.md",
-    "31 AUGUST.md",
-    "26-08-24.md",
-    "24-7-2024.md",
-    "8-8-2024.md",
-    "7-8-2024.md",
-    "4-9-2024.md",
-    "3 weight crucial records.md",
-    "2 October 2024.md",
-    "task by friday 1200.md",
-    "new JO flow for raw material.md",
-    "Update  16-10-2024.md",
-    "task 101.md",
-    "din's.md",
-    "Untitled 1.md",
-    "UAT nextweek - 14 October 2024.md",
-    "Untitled.md",
-    "update task.md",
-    "Update 21-08-2024.md",
     "update.md",
-    "task/8-8-2024.md",
+    "update task.md",
     "task/TODO.md",
+    "task/8-8-2024.md",
     "task/7-8-2024.md",
+    "task/31 AUGUST.md",
+    "task/24-7-2024.md",
     "task",
-    "Pasted image 20240809122549.png"
+    "task by friday 1200.md",
+    "task 101.md",
+    "new JO flow for raw material.md",
+    "medias/Pasted image 20240404102344.png",
+    "medias/Pasted image 20240206170922.png",
+    "medias/Pasted image 20240206170846.png",
+    "medias/Pasted image 20240206170816.png",
+    "medias",
+    "fixed bug.md",
+    "din's.md",
+    "Update 21-08-2024.md",
+    "Update  16-10-2024.md",
+    "Untitled.md",
+    "UAT nextweek - 14 October 2024.md",
+    "UAT date.md",
+    "Task.md",
+    "Pasted image 20240809122549.png",
+    "Farmeria.md",
+    "github settings.md",
+    "Accounts.md",
+    "Cloud info.md",
+    "Command.md"
   ]
 }
