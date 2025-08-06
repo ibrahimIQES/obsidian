@@ -18,7 +18,9 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Accounts"
             }
           },
           {
@@ -29,10 +31,12 @@
               "type": "markdown",
               "state": {
                 "file": "Command.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
-              "pinned": true
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Command"
             }
           },
           {
@@ -46,35 +50,29 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a6564a7b13001c1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Command.md",
-                "mode": "preview",
-                "source": false
-              }
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Cloud info"
             }
           },
           {
             "id": "72d819b037251aba",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "git info.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "git info"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +91,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -109,7 +110,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -117,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -140,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git info.md",
+                "file": "Cloud info.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +153,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cloud info"
             }
           },
           {
@@ -157,10 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git info.md",
+                "file": "Cloud info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Cloud info"
             }
           },
           {
@@ -170,8 +179,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -180,8 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git info.md"
-              }
+                "file": "Cloud info.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Cloud info"
             }
           }
         ]
@@ -201,11 +219,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72d819b037251aba",
+  "active": "f868628dcc09ecb6",
   "lastOpenFiles": [
+    "Cloud info.md",
     "git info.md",
     "Command.md",
-    "Cloud info.md",
     "Accounts.md",
     "din's.md",
     "Farmeria.md",

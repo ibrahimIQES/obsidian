@@ -3,7 +3,7 @@ user: ibrhmazmi
 pass: Acah2good#
 ### git clone
 ```
-git clone --branch UAT --single-branch git@github.com:HDI365/Farmiera-portal.git 
+git clone git@github.com:HDI365/Farmiera-portal.git 
 ```
 
 ### ssh
